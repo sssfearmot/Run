@@ -24,16 +24,16 @@ export default function App() {
             <img src={Logo} alt="title" />
           </li>
           <li>
-            <a href="/">Home</a>
+            <a href="./">Home</a>
           </li>
           <li>
-            <a href="/">Download</a>
+            <a href="./">Download</a>
           </li>
           <li>
-            <a href="/">App</a>
+            <a href="./">App</a>
           </li>
           <li>
-            <a href="/">Login</a>
+            <a href="./">Login</a>
           </li>
           <li>
             <button>Get Started</button>
